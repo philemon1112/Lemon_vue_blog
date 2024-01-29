@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Hello World",
+            "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum blanditiis ea officia obcaecati amet quisquam accusamus ipsam quam facere sit est doloribus, quidem ratione at vero repellendus dolores quasi quos, eos molestiae distinctio quae impedit nam soluta! Sit accusamus in qui ab beatae molestiae cupiditate consectetur quis fugit, enim dolor cumque tenetur totam cum unde dolore est voluptas dolorum ex maxime suscipit fugiat temporibus possimus. Obcaecati vel, culpa a molestias doloribus veritatis atque! Numquam, pariatur fuga dicta consequuntur omnis adipisci est minima minus mollitia porro at, animi dolorem rerum possimus odit quos! Aperiam in eius voluptatum nobis sint molestiae fugiat!",
+            "tags": [
+                "webdev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "The Lemon Cycle",
+            "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum blanditiis ea officia obcaecati amet quisquam accusamus ipsam quam facere sit est doloribus, quidem ratione at vero repellendus dolores quasi quos, eos molestiae distinctio quae impedit nam soluta! Sit accusamus in qui ab beatae molestiae cupiditate consectetur quis fugit, enim dolor cumque tenetur totam cum unde dolore est voluptas dolorum ex maxime suscipit fugiat temporibus possimus. Obcaecati vel, culpa a molestias doloribus veritatis atque! Numquam, pariatur fuga dicta consequuntur omnis adipisci est minima minus mollitia porro at, animi dolorem rerum possimus odit quos! Aperiam in eius voluptatum nobis sint molestiae fugiat!",
+            "tags": [
+                "CSS",
+                "Native Application",
+                "SWR, SSG, SSR"
+            ]
+        }
+    ]
+}
